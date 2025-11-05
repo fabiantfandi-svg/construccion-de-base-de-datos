@@ -15,7 +15,7 @@ El **diagrama entidad-relación (E-R)** refleja las relaciones entre estas entid
 - **Matrícula** → relaciona estudiantes con cursos.  
 - **Nota** → pertenece a una matrícula.
 
-📎 **Evidencia:** diagrama E-R incluido en el archivo  
+ **Evidencia:** diagrama E-R incluido en el archivo  
 ![entidad relacion](diagrama%20entidad%20relacion%201.png)
 ![powershell](powershell.png)
 ![docker](base%20de%20postgres%20en%20docker.png)
